@@ -1,3 +1,4 @@
 # sync_note
 
-A new Flutter project.
+Note app built with flutter
+
